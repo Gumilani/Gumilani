@@ -11,9 +11,7 @@
   
 - 🌱 Atualmente estou aprimorando meus conhecimentos em **Python, SQL, Power BI**
 
-- 📫 Voce me acha através do e-mail **gstafocker2000@gmail.com**
-
-- 📄 Para saber mais sobre as minhas experiências pode acessar o meu LinkedIn [https://www.linkedin.com/in/gustavostafocker/](https://www.linkedin.com/in/gustavostafocker/)
+- 📄 Para saber mais sobre as minhas experiências pode acessar o meu LinkedIn.
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
