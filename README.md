@@ -9,7 +9,7 @@
 
  - 🔭 Atualmente focado na area de Análise e Ciência de Dados.
 
-- 📄 Para saber mais sobre as minhas experiências pode acessar o meu LinkedIn.
+- 📄 Para saber mais sobre as minhas experiências pode acessar o meu [LinkedIn](https://www.linkedin.com/in/gustavostafocker/).
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
