@@ -1,6 +1,8 @@
 <h1 align="center">Olá! 👋, Tudo Bem ? Muito prazer, sou o Gustavo!</h1>
 <h3 align="center">Usando dados para melhorar nosso dia a dia</h3>
 
+<h2 align="left">🗨 Sobre mim:</h2>
+
 - 🌱 Atualmente estou aprimorando meus conhecimentos em **Python, SQL, Power BI**
 
 - 💬 Me pergunte sobre **Python, SQL, Power BI, Excel e Suporte de TI**
