@@ -4,6 +4,10 @@
 <h2 align="left">🗨 Sobre mim:</h2>
 
  - 👨‍🎓 Sou formado em Engenharia da Computação pela FIAP.
+
+ -- 👨‍💻 Possuo expericencia com mais de 2 anos em suporte de TI.
+
+ - 🔭 Atualmente focado na area de Análise e Ciência de Dados.
   
 - 🌱 Atualmente estou aprimorando meus conhecimentos em **Python, SQL, Power BI**
 
