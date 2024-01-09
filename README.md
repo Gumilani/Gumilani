@@ -3,6 +3,8 @@
 
 <h2 align="left">🗨 Sobre mim:</h2>
 
+ - 👨‍🎓 Sou formado em Engenharia da Computação pela FIAP.
+  
 - 🌱 Atualmente estou aprimorando meus conhecimentos em **Python, SQL, Power BI**
 
 - 💬 Me pergunte sobre **Python, SQL, Power BI, Excel e Suporte de TI**
