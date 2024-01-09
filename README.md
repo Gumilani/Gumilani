@@ -8,8 +8,6 @@
  - 👨‍💻 Possuo expericencia com mais de 2 anos em suporte de TI.
 
  - 🔭 Atualmente focado na area de Análise e Ciência de Dados.
-  
-- 🌱 Atualmente estou aprimorando meus conhecimentos em **Python, SQL, Power BI**
 
 - 📄 Para saber mais sobre as minhas experiências pode acessar o meu LinkedIn.
 
