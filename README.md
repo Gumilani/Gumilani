@@ -7,7 +7,7 @@
 
  - 👨‍💻 Possuo experiência com mais de 2 anos em suporte de TI.
 
- - 🔭 Atualmente focado na area de Engenharia de Dados.
+ - 🔭 Atualmente focado na area de Analista de Dados.
 
 - 📄 Para saber mais sobre as minhas experiências pode acessar o meu [LinkedIn](https://www.linkedin.com/in/gustavostafocker/).
 
