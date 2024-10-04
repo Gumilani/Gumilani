@@ -5,7 +5,7 @@
 
  - 👨‍🎓 Sou formado em Engenharia da Computação pela FIAP.
 
- - 👨‍💻 Possuo experiência com mais de 2 anos em suporte de TI.
+ - 👨‍💻 Possuo experiência com mais de 3 anos em suporte tecnico e Dados.
 
  - 🔭 Atualmente focado na area de Analista de Dados.
 
